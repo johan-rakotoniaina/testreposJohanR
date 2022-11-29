@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="100"/>
+</div>
 Miasa sy mianatra momba ny tontolo ny Teknology.
   Johan
 <div id="badges">
