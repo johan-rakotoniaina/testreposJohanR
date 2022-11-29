@@ -1,3 +1,4 @@
+<img src="example.gif" alt="description of gif" /> 
 Miasa sy mianatra momba ny tontolo ny Teknology.
   Johan
 <div id="badges">
