@@ -1,4 +1,4 @@
-<img src="example.gif" alt="description of gif" /> 
+<img src="example.gif" alt="Smile" /> 
 Miasa sy mianatra momba ny tontolo ny Teknology.
   Johan
 <div id="badges">
